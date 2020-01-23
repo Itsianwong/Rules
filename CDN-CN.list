@@ -1,0 +1,54 @@
+## > CDN-CN
+# > 百度云
+DOMAIN-SUFFIX,libs.baidu.com
+DOMAIN-SUFFIX,baidubce.com
+DOMAIN-SUFFIX,bcebos.com
+# > 顶象
+DOMAIN-SUFFIX,dingxiang-inc.com
+# > 金山云
+DOMAIN-SUFFIX,ksyunad.com
+DOMAIN-SUFFIX,bestcloudcdn.com
+DOMAIN-SUFFIX,ks-cdnv6.com
+DOMAIN-SUFFIX,kingcloud.com
+DOMAIN-SUFFIX,ksyuncdn.com
+DOMAIN-SUFFIX,ksyungslb.com
+DOMAIN-SUFFIX,kcdnvip.com
+DOMAIN-SUFFIX,ksyunv5.com
+DOMAIN-SUFFIX,ksyuncdn-k1.com
+DOMAIN-SUFFIX,ks-cdn1.com
+DOMAIN-SUFFIX,ksyna.com
+DOMAIN-SUFFIX,ksyuncdn-k2.com
+DOMAIN-SUFFIX,ksyun.net
+DOMAIN-SUFFIX,ksyunwaf.com
+DOMAIN-SUFFIX,ks-cdn.com
+DOMAIN-SUFFIX,ksycdn.cn
+DOMAIN-SUFFIX,ksyun.com
+DOMAIN-SUFFIX,ksord.com
+DOMAIN-SUFFIX,ksc-test.com
+DOMAIN-SUFFIX,kuaipandata.com
+IP-CIDR,120.92.112.0/21,no-resolve
+# > 七牛云
+DOMAIN-SUFFIX,clouddn.com
+DOMAIN-SUFFIX,qiniu.com
+DOMAIN-SUFFIX,qiniudns.com
+DOMAIN-SUFFIX,qbox.me
+DOMAIN-SUFFIX,qiniudn.com
+DOMAIN-SUFFIX,qiniup.com
+# > 网宿科技
+DOMAIN-SUFFIX,ourdvs.com
+# > 腾讯云
+DOMAIN-SUFFIX,smtcdns.net
+DOMAIN-SUFFIX,smtcdns.com
+# > 又拍云
+DOMAIN-SUFFIX,upaiyun.com
+DOMAIN-SUFFIX,upyun.com
+# > 烽动CDN
+DOMAIN-SUFFIX,88cdn.com
+DOMAIN-SUFFIX,00cdn.com
+DOMAIN-SUFFIX,p2cdn.com
+DOMAIN-SUFFIX,thundercdn.com
+# > 玩客云
+DOMAIN-SUFFIX,onethingcloud.com
+# > 星域云
+DOMAIN-SUFFIX,xycloud.com
+DOMAIN-SUFFIX,xycdn.com
