@@ -316,6 +316,12 @@ DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pixiv.org
 DOMAIN-SUFFIX,pixiv.co.jp
 DOMAIN-SUFFIX,pximg.net
+## > Potato Chat
+DOMAIN-SUFFIX,potato.im
+IP-CIDR,13.251.24.157/24,no-resolve
+IP-CIDR,13.251.41.203/24,no-resolve
+IP-CIDR,17.252.156.147/24,no-resolve
+IP-CIDR,17.252.157.26/24,no-resolve
 ## > Python
 DOMAIN-SUFFIX,python.org
 DOMAIN-SUFFIX,pythonhosted.org
@@ -4393,7 +4399,6 @@ DOMAIN-SUFFIX,post76.com
 DOMAIN-SUFFIX,post852.com
 DOMAIN-SUFFIX,postadult.com
 DOMAIN-SUFFIX,postimg.org
-DOMAIN-SUFFIX,potato.im
 DOMAIN-SUFFIX,potatso.com
 DOMAIN-SUFFIX,potvpn.com
 DOMAIN-SUFFIX,power.com
