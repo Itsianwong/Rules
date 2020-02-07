@@ -2,6 +2,28 @@
 ## > DMCA敏感
 # > qbittorrent
 DOMAIN-SUFFIX,qbittorrent.org
+## Private Tracker
+DOMAIN-SUFFIX,awesome-hd.me
+DOMAIN-SUFFIX,broadcasthe.net
+DOMAIN-SUFFIX,classix-unlimited.co.uk
+DOMAIN-SUFFIX,empornium.me
+DOMAIN-SUFFIX,gazellegames.net
+DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,icetorrent.org
+DOMAIN-SUFFIX,jpopsuki.eu
+DOMAIN-SUFFIX,keepfrds.com
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,madsrevolution.net
+DOMAIN-SUFFIX,nanyangpt.com
+DOMAIN-SUFFIX,ncore.cc
+DOMAIN-SUFFIX,open.cd
+DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,tjupt.org
+DOMAIN-SUFFIX,msg.vg
+DOMAIN-SUFFIX,hdtime.org
+DOMAIN-SUFFIX,leaguehd.com
+DOMAIN-SUFFIX,pthome.net
+DOMAIN-SUFFIX,beitai.pt
 ## > Trackers
 DOMAIN,torrent.blob.core.chinacloudapi.cn
 DOMAIN,nyaa.tracker.wf
