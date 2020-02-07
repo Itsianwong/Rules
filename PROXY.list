@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,ccmdl.adobe.com
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,ssl-images-amazon.com
+DOMAIN-SUFFIX,images-amazon.com
 DOMAIN-SUFFIX,media-amazon.com
 DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,amazon.co.uk
@@ -352,9 +353,17 @@ IP-CIDR,74.86.0.0/16,no-resolve
 IP-CIDR,75.126.0.0/16,no-resolve
 IP-CIDR,174.37.0.0/16,no-resolve
 IP-CIDR,208.43.0.0/16,no-resolve
+## > Sony
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 ## > Spark
-DOMAIN-SUFFIX,api.amplitude.com
 DOMAIN-SUFFIX,smartmailcloud.com
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,hockeyapp.net
 ## > SublimeText
 DOMAIN-SUFFIX,sublimetext.com
 DOMAIN-SUFFIX,sublimehq.com
