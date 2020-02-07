@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,aliapp.org
 DOMAIN-SUFFIX,alisports.com
 DOMAIN-SUFFIX,alimama.com
 DOMAIN-SUFFIX,mxhichina.com
+DOMAIN-SUFFIX,alibabacloud.com
 # > 菜鸟裹裹
 DOMAIN-SUFFIX,cainiao.com
 DOMAIN-SUFFIX,cainiao-inc.com
@@ -32,6 +33,7 @@ DOMAIN-SUFFIX,1688.com
 # > 淘宝
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,tbcdn.cn
+DOMAIN-SUFFIX,tbcdn.com
 DOMAIN-SUFFIX,taobao.org
 DOMAIN-SUFFIX,taopiaopiao.com
 DOMAIN-SUFFIX,taobaocdn.com
@@ -44,6 +46,7 @@ DOMAIN-SUFFIX,lingshoujia.com
 DOMAIN-SUFFIX,pailitao.com
 DOMAIN-SUFFIX,etao.com
 DOMAIN-SUFFIX,img.alicdn.com
+DOMAIN-SUFFIX,aliexpress.com
 # > 飞猪
 DOMAIN-SUFFIX,alitrip.com
 DOMAIN-SUFFIX,fliggy.com
