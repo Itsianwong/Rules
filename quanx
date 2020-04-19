@@ -1,4 +1,0 @@
-vmess=lax.ianwong.top:443, method=aes-128-gcm, password=596d0ac9-a027-4433-bf17-41958c12093e, obfs-host=lax.ianwong.top, obfs=wss, tls-verification=true, obfs-uri=/171886d4/,fast-open=false, udp-relay=false, tag=🇺🇸 LAX
-vmess=9shost.ianwong.top:443, method=aes-128-gcm, password=86dd6b03-7083-41cf-a603-6370c51bcd10, obfs-host=9shost.ianwong.top, obfs=wss, tls-verification=true, obfs-uri=/b5a3d5da/,fast-open=false, udp-relay=false, tag=🇺🇸 LAX2
-vmess=hkg.ianwong.top:443, method=aes-128-gcm, password=8bab18a4-c601-4cdb-b881-42caadc92ad8, obfs-host=hkg.ianwong.top, obfs=wss, tls-verification=true, obfs-uri=/ec11ad27/,fast-open=false, udp-relay=false, tag=🇭🇰 HKG
-vmess=oracle.ianwong.top:443, method=aes-128-gcm, password=f5d0db22-207d-420b-9ed2-07c4a6e5a30a, obfs-host=oracle.ianwong.top, obfs=wss, tls-verification=true, obfs-uri=/c7618ed5/,fast-open=false, udp-relay=false, tag=🇯🇵 Tokyo
